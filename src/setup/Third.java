@@ -7,4 +7,7 @@ public class Third {
     public void s(){
 
     }
+    public void v(){
+        System.out.println();
+    }
 }
